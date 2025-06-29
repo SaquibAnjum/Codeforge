@@ -97,7 +97,7 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 
 ## Contact
 
-For support or inquiries, please contact the development team at **jaimishra502@gmail.com**.
+For support or inquiries, please contact the development team at **saquib1312@gmail.com**.
 
 Happy Coding! 🎉
 
